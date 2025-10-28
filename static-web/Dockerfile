@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-# Set default environment variable or chane during runtime
+# Set default environment variable or change during runtime
 ENV FOOTER_TEXT="By Mohammed Aatef, Elevate-Labs Intern"
 
 # Copy static files
